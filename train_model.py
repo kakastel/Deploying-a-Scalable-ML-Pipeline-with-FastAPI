@@ -63,7 +63,7 @@ save_model(encoder, encoder_path)
 # load the model
 model = load_model(
     model_path
-) 
+)
 
 preds = inference(model, X_test)
 

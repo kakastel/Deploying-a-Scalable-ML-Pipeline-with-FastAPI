@@ -16,5 +16,6 @@ Census Income, 32,561 rows using a 75/25 split for training vs test. random_stat
 _Please include the metrics used and your model's performance on those metrics._
 
 ## Ethical Considerations
+The model misses a lot of higher income women more than it misses higher incomemen. there is also a race gap.
 
 ## Caveats and Recommendations
