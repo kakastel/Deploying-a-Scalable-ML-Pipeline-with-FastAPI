@@ -24,7 +24,7 @@ data = {
     "native-country": "United-States",
 }
 
-# TODO: send a POST using the data above
+
 r = requests.post("http://127.0.0.1:8000/data/", json=data)
 
 print("status code:", r.status_code)
